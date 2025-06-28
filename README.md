@@ -1,7 +1,5 @@
 # Personalized-Medical-Recommendation-System-with-Machine-Learning
-Sure! Here's a **rephrased version** of your description using different words while keeping the meaning and tone intact:
 
----
 
 Welcome to our innovative **Personalized Medical Recommendation System**—a smart platform created to help users take control of their health. By harnessing the power of machine learning, this system evaluates user-submitted symptoms to accurately identify possible diseases and offer customized medical guidance.
 
